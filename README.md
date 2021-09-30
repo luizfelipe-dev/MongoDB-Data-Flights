@@ -2,7 +2,7 @@
 
 Este projeto contém apenas querys do banco NoSQL MongoDB.
 
-Os resultados dos desafios estão na pasta `challenges` 
+Os desafios e seus resultados estão na pasta `challenges` 
 
 # Habilidades
 
